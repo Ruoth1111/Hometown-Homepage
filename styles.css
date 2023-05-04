@@ -1,0 +1,299 @@
+.full{
+    height: 150vh;
+    display: flex;
+    justify-content: center;
+    background:url(varanasi.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+#full1{
+    height: 150vh;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+.Hero{
+    background:rgba(0, 0, 0,.5);
+    background-size: cover;
+    height:430px;
+    width: 900px;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#text1{
+     position: absolute;
+     color:#47477b ;
+     border-radius: 10px;
+     font-size: 58px;
+     font-weight:bolder;
+     margin:90px 20px 40px 279px;
+     background-color:#c6c4d8;
+}
+#text2{
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    background-color:#716190;
+    margin: 172px 230px 130px 170px;
+    height: 75px;
+    width: 600px;
+    
+}
+#text3{
+    position: absolute;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 10px 49px 30px 20px;
+    background-color: rgba(0, 0, 0,.5);
+    width: 200px;
+}
+#text4{
+    position: absolute;
+    color: #c6c4d8;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+    font-size: 21px;
+    font-weight: 300;
+    margin: 95px 39px 60px 69px;
+    text-align: center;
+    background-color:rgba(0, 0, 0,.5);
+}
+#text5{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-size: 20px;
+    font-weight: 300;
+    width: 870px;
+    margin: 270px 50px 40px 20px;
+    background-color:#224261;
+}
+.Reasons{
+    background-color: #bda3bc;
+    height: 378px;
+    width: 720px;
+    margin-top: 343px;
+    margin-left: 0px;
+    position: absolute;
+
+}
+.Why{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    font-size: 24px;
+    color: #2b3553;
+    height: 60px;
+    margin: 29px 141px 319px 131px;
+    position:absolute;
+    
+}
+.Temple{
+    margin: 70px 488px 38px 15px;
+    position: absolute;
+    height: 226px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+#image1{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 70px 537px 164px 55px;
+    position: absolute;
+    display: flex;
+}
+#must1{
+    position: absolute;
+    width: 183px;
+    height: 35px;
+    margin: 186px 496px 110px 20px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: ##2b3553;
+    
+}
+#para1{
+    margin: 235px 488px 28px 18px;
+    position: absolute;
+    width: 178px;
+    height: 55px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #13273a;
+    
+
+}
+.Ghats{
+      margin: 70px 257px 38px 45px;
+      position: absolute;
+      height: 227px;
+}
+#image2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    margin: 70px 306px 164px 270px;
+}
+#must2{
+    margin: 186px 275px 110px 239px;
+    position: absolute;
+    width: 162px;
+    height: 30px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 18px;
+    text-align: center;
+    color:#2b3553;
+}
+#para2{
+     margin: 215px 257px 28px 234px;
+     position: absolute;
+     width: 198px;
+     height: 54px;
+     font-family: 'Arial';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 18px;
+     text-align: center;
+     color: #13273a;
+}
+.Aarti{
+    position: absolute;
+    height: 227px;
+    margin: 70px 0px 38px 45px;
+
+}
+#image3{
+    width: 100px;
+    height: 100px;
+    margin: 70px 83px 165px 507px;
+    position: absolute;
+    display: flex;
+    border-radius: 50%;
+    background:skyblue;
+}
+#must3{
+    position: absolute;
+    margin: 186px 35px 104px 464px;
+    height: 30px;
+    width: 167px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #2b3553;
+}
+#para3{
+position: absolute;
+width: 190px;
+height: 54px;
+margin: 215px 34px 58px 460px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+color: #13273a;
+}
+.Guide{
+    background:url(gettyimages-521647442-612x612.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    height:394px ;
+    position: absolute;
+    width: 720px;
+    height: 394px;
+    margin-top: 721px;
+    margin-left: 0px;
+    display: flex;
+}
+#back{
+    background: #ABDADC;
+    width: 400px;
+    height: 294px;
+    margin: 50px 260px 80px 160px;
+    border-bottom: 6px solid olive ;
+    border-radius: 7px;
+    position: absolute;
+}
+#Your{
+    width: 207px;
+    height: 32px;
+    margin: 49px 4px 213px 189px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color:#1D3557;
+    position: absolute;
+}
+#experience{
+    width: 189px;
+    height: 71px;
+    margin: 95px 11px 128px 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color:#1D3557;
+    position: absolute;
+}
+#name{
+    color:#1D3557;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    width: 189px;
+    height: 18px;
+    margin: 192px 13px 84px 198px;
+    position: absolute;
+}
+#ruth{
+    width: 180px;
+    height: 248.67px;
+    margin:23px 207px 22.33px 13px;
+    border-radius: 10px;
+    position: absolute;
+}
